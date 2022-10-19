@@ -1,5 +1,5 @@
 [![masinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=masinc&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masinc&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masinc&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
